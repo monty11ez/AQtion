@@ -1,5 +1,8 @@
+This is to be a port of Aquantia's Linux driver to FreeBSD. Any and all help would be greatly appreciated. 
+
 AQUANTIA AQtion (atlantic) linux driver
 ===========
+
 This is a latest development preview of aquantia's atlantic linux kernel driver for AQtion family of multigigabit adapters.
 Please read technical details in [README.txt](https://github.com/Aquantia/AQtion/blob/master/README.txt)
 
